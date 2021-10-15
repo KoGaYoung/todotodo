@@ -16,18 +16,6 @@
 4. 작업 완료하시고 원격 브랜치로 푸시하셔도 됩니다 :)
 ~~~
 
-# CSS 수작업할 시간이 부족 matarial UI적용
-문서 : https://mui.com/components/app-bar/
-
-
-# 작업화면
-![image](https://user-images.githubusercontent.com/36693355/137537498-cd444459-6687-4cbf-aea2-dcad0c712d15.png)
-https://medium.com/wesionary-team/building-a-todo-app-using-react-redux-and-material-ui-688281d968ba
-
-![image](https://user-images.githubusercontent.com/36693355/137537696-bff821b3-8cb0-48d6-a21d-a95417f41071.png)
-https://aimho.tistory.com/95
-https://codechasseur.tistory.com/100
-
 # 구현할 기능 명세
 ~~~
 1. 우리의 투두투두 리스트는 크게 3가지로 구분할 수 있습니다.
@@ -43,6 +31,22 @@ https://codechasseur.tistory.com/100
 5. todo list의 item갯수를 count한 갯수를 리스트의 Header에 보여주기
 
 ~~~
+
+# CSS 수작업할 시간이 부족 matarial UI적용
+문서 : https://mui.com/components/app-bar/
+
+
+# 작업화면
+
+![image](https://user-images.githubusercontent.com/36693355/137537498-cd444459-6687-4cbf-aea2-dcad0c712d15.png)
+https://medium.com/wesionary-team/building-a-todo-app-using-react-redux-and-material-ui-688281d968ba
+
+![image](https://user-images.githubusercontent.com/36693355/137537696-bff821b3-8cb0-48d6-a21d-a95417f41071.png)
+
+https://aimho.tistory.com/95
+https://codechasseur.tistory.com/100
+
+
 
 # 예상 Q&A
 ~~~

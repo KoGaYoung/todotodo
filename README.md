@@ -20,9 +20,9 @@
 ~~~
 1. 우리의 투두투두 리스트는 크게 3가지로 구분할 수 있습니다.
     Header(Hit you with that todotodo),
-    Tab(ALL, COMPELETE, NOT YET) 
-    Contents(todoItem, ALL탭의 경우 INPUT)로 구성되어있습니다.
-2. ALL 탭의 경우 텍스트 필드가 있으며 키보드입력(ex.enter key)를 통해 todoItem을 추가합니다.
+    Tabs(ALL, COMPELETE, NOT YET) 
+    Contents(todoItem, INPUT(ALL탭에만 )로 구성되어있습니다.
+2. ALL 탭의 경우 텍스트 필드가 있으며 키보드입력(ex.enter key)를 통해 todoItem을 추가합니다. (아래 작업화면 참고)
    todoItem은 왼쪽부터 완료여부를 나타내는 체크박스, 할일내용, 우측에는 수정과 삭제 버튼이 있습니다.
    더블클릭 시에도 수정이 가능합니다. 수정을 완료하지 않은 상태에서 esc키를 누르면 수정되지 않은 채로 다시 view 모드로 복귀
    이 때 완료된 항목은 글자색 변경과 취소선을 그려줍니다
@@ -36,15 +36,10 @@
 문서 : https://mui.com/components/app-bar/
 
 
-# 작업화면
+# 대략적인 작업화면
 
 ![image](https://user-images.githubusercontent.com/36693355/137537498-cd444459-6687-4cbf-aea2-dcad0c712d15.png)
-https://medium.com/wesionary-team/building-a-todo-app-using-react-redux-and-material-ui-688281d968ba
-
-![image](https://user-images.githubusercontent.com/36693355/137537696-bff821b3-8cb0-48d6-a21d-a95417f41071.png)
-
-https://aimho.tistory.com/95
-https://codechasseur.tistory.com/100
+![image](https://user-images.githubusercontent.com/36693355/137615169-4e1a4341-fdd9-444b-8d4c-aded370c90b5.png)
 
 
 

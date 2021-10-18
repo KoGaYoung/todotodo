@@ -35,6 +35,7 @@
 # CSS 수작업할 시간이 부족 matarial UI적용
 문서 : https://mui.com/components/app-bar/
 
+# https://codesandbox.io/s/py4l57ooj%3Ffile=/src/components/List.js:0-976
 
 # 대략적인 작업화면
 
